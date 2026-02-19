@@ -1,1 +1,20 @@
 venv/
+__pycache__/
+
+# PyBullet profiling data
+timings_*.json
+
+# Training artifacts
+logs/
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
