@@ -4,11 +4,11 @@
 
 **Demo 1**
 
-<video src="videos/9x9_hard_mazes/episode_1.mp4" controls></video>
+![Demo 1](videos/9x9_hard_mazes/episode_1.mp4)
 
 **Demo 2**
 
-<video src="videos/9x9_hard_mazes/episode_8.mp4" controls></video>
+![Demo 2](videos/9x9_hard_mazes/episode_8.mp4)
 
 ### Overview
 This project implements a learning-based indoor navigation system using PyBullet and PPO. A mobile robot must navigate from a random start to a random goal inside an indoor maze-like environment, using only local lidar observations.
